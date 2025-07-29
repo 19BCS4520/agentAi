@@ -1,0 +1,11 @@
+[
+  {"name": "Baga Beach", "category": "Beach", "location": "Goa", "description": "Famous lively beach with shacks, water sports, and nightlife.", "cost_estimate": "Low"},
+  {"name": "Dudhsagar Falls", "category": "Nature", "location": "Goa", "description": "Stunning four-tiered waterfall accessible by jeep safari and trek. Famous for its milky white water.", "cost_estimate": "Medium"},
+  {"name": "Anjuna Flea Market", "category": "Shopping", "location": "Goa", "description": "Bohemian market held every Wednesday, selling clothes, jewelry, souvenirs, and food.", "cost_estimate": "Low to Medium"},
+  {"name": "Calangute Beach", "category": "Beach", "location": "Goa", "description": "Known as the 'Queen of Beaches', popular for water sports like parasailing and jet-skiing.", "cost_estimate": "Low"},
+  {"name": "Chapora Fort", "category": "Historical", "location": "Goa", "description": "Historic fort offering panoramic views of Vagator Beach and the Arabian Sea. Popular for sunset views.", "cost_estimate": "Free"},
+  {"name": "Bondla Wildlife Sanctuary", "category": "Nature", "location": "Goa", "description": "Smallest wildlife sanctuary in Goa, home to deer, elephants, and various birds. Has a mini zoo and botanical garden.", "cost_estimate": "Low"},
+  {"name": "Big Ben", "category": "Landmark", "location": "London", "description": "Iconic clock tower and landmark of London.", "cost_estimate": "Free"},
+  {"name": "Tower of London", "category": "Historical", "location": "London", "description": "Historic castle on the River Thames, known for the Crown Jewels and its dark history.", "cost_estimate": "High"},
+  {"name": "British Museum", "category": "Museum", "location": "London", "description": "World-renowned museum of human history, art, and culture. Entry is free.", "cost_estimate": "Free"}
+]
