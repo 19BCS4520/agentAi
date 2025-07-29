@@ -1,0 +1,8 @@
+[
+  {"name": "Thalassa", "cuisine": "Greek", "location": "Goa", "description": "Iconic Greek restaurant with stunning sea views and authentic Mediterranean dishes.", "price_range": "$$$"},
+  {"name": "Fisherman's Wharf", "cuisine": "Seafood", "location": "Goa", "description": "Riverside dining offering fresh seafood and traditional Goan cuisine.", "price_range": "$$"},
+  {"name": "Gunpowder", "cuisine": "South Indian", "location": "Goa", "description": "Authentic regional Indian dishes, especially known for its delicious curries and home-style cooking.", "price_range": "$$"},
+  {"name": "Britannia & Co. Restaurant", "cuisine": "Parsi, Indian", "location": "Mumbai", "description": "An iconic, old-school Parsi cafe famous for Berry Pulao and Sali Boti.", "price_range": "$$"},
+  {"name": "Dishoom Covent Garden", "cuisine": "Indian", "location": "London", "description": "Popular Indian restaurant serving Bombay comfort food and an excellent breakfast.", "price_range": "$$"},
+  {"name": "Borough Market", "cuisine": "Street Food, Various", "location": "London", "description": "Historic food market with numerous stalls offering diverse cuisines from around the world.", "price_range": "$"}
+]
